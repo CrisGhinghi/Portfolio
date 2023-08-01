@@ -7,7 +7,7 @@ export const Services = () => {
             title='Services ⚒️'
             subtitle={`These are the technologies I've worked with`}
         >
-            <div className="grid grid-cols-2 gap-10 md:grid-cols-3 lg:grid-cols-5 ">
+            <div className="grid grid-cols-2 gap-8 md:grid-cols-3 lg:grid-cols-5 ">
                 {servicesData.map(({ id, image, title, description }) => (
                     <div
                         key={id}
