@@ -16,7 +16,7 @@ export const Portfolio = () => {
                 {portfolioData.map(({ id, image, title, github, demo }) => (
                     <div
                         key={id}
-                        className='max-w-lg flex shadow-lg shadow-gray-600 rounded-2xl overflow-hidden duration-200 hover:scale-105 lg:hover:scale-110'
+                        className='max-w-md flex shadow-lg shadow-gray-600 rounded-2xl overflow-hidden duration-200 hover:scale-105 lg:hover:scale-110'
                     >
                         <img
                             src={image}
