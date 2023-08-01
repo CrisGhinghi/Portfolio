@@ -11,7 +11,7 @@ export const Portfolio = () => {
             subtitle='Check out some of my work right here'
         >
 
-            <div className="grid gap-8 lg:gap-14 lg:grid-cols-2">
+            <div className="grid gap-8 lg:gap-10 lg:grid-cols-2">
 
                 {portfolioData.map(({ id, image, title, github, demo }) => (
                     <div
