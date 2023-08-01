@@ -1,6 +1,6 @@
 import counter from '../../assets/portfolio/counter.png'
 import likePhoto from '../../assets/portfolio/likePhoto.png'
-import randomizeColors from "../../assets/portfolio/RandomizeColors.png"
+import randomizeColors from "../../assets/portfolio/randomizeColors.png"
 import testimonials from '../../assets/portfolio/testimonials.png'
 import dreamCity from '../../assets/portfolio/dreamCity.png'
 
