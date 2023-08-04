@@ -8,7 +8,7 @@ export const Portfolio = () => {
     return (
         <Section
             title='Portfolio 🗒️'
-            subtitle='Check out some of my work right here'
+            subtitle='Check out my latest work'
         >
 
             <div className="grid gap-8 lg:gap-10 lg:grid-cols-2">
