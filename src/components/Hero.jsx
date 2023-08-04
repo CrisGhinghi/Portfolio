@@ -27,7 +27,8 @@ export const Hero = () => {
             <h2 className="text-4xl lg:text-5xl text-rose-600 font-bold uppercase">Cristina Ghinghiloschi</h2>
             <h3 className="py-3 text-2xl">Front End Developer</h3>
             <p className="max-w-xl font-light text-gray-500">
-                Hi <span className="animate-pulse text-3xl">👋</span>, I{"'"}m Cris, and this is my digital playground.<br />
+                Hi <span className="animate-pulse text-3xl">👋</span>, I{"'"}m Cris, welcome to my site.<br />
+                Innovation and technology are my passion.<br />
                 Nice to meet you.
             </p>
 
