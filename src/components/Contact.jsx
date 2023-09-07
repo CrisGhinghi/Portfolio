@@ -101,7 +101,7 @@ export const Contact = () => {
                         </div>
 
                         <div className="flex items-center justify-center">
-                            <button className="my-8 bg-gradient-to-r from-rose-600 to-rose-800 text-white px-6 py-3 uppercase rounded-md tracking-wider cursor-pointer hover:scale-105 duration-200">
+                            <button className="my-8 bg-gradient-to-r from-rose-600 to-rose-800 text-white px-6 py-3 uppercase rounded-md tracking-wider cursor-pointer hover:scale-105 duration-200 shadow-gray-600 shadow-md">
                                 Send message
                             </button>
                         </div>
